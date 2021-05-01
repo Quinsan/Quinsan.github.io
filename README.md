@@ -41,6 +41,18 @@ Look, a line of code: `var line = code`.  If you've got a longer block of code, 
     if (code){
       return many lines
     }
-    
+
+This is cool!
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+Click me!!!
+
+- [x] This is a complete item
+- [ ] This is an incomplete item
     
 Well thats something!!!
