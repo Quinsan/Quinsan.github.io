@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Quinsan/Quinsan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Testing out Markdown syntax, nothing to see here.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+> I have no idea what I'm doing.
+> - Computer dog (or in this case me)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+I'm good at copy pasta:
 
-1. Numbered
-2. List
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-**Bold** and _Italic_ and `Code` text
+### Lists
 
-[Link](url) and ![Image](src)
-```
+A numbered list:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Item 1
+2. Item 2
+3. Item 3
+4. Item 4 You
 
-### Jekyll Themes
+Shooting some bullets:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Quinsan/Quinsan.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* This is a bullet
+* We have a badass over me!
 
-### Support or Contact
+Or just dashes
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Heya there
+  - We work on many levels 
+
+
+Heres some code:
+
+Look, a line of code: `var line = code`.  If you've got a longer block of code, you can indent with four spaces:
+
+    if (code){
+      return many lines
+    }
+    
+    
+Well thats something!!!
