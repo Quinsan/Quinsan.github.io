@@ -4,15 +4,15 @@ Testing out Markdown syntax, nothing to see here.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It's pretty neat. This page uses Jekyll theme, and this is easy to change.
 
 > I have no idea what I'm doing.
 > - Computer dog (or in this case me)
 
 
-I'm good at copy pasta:
+Some example of using text styles and linking a page here:
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+It's very easy to make some words **bold** and other words *italic* with Markdown. Link to my own project [here!](https://quinsan.github.io/robofriends/)
 
 ### Lists
 
@@ -50,7 +50,7 @@ if (isAwesome){
 }
 ```
 
-Click me!!!
+Maybe it's time to mark this as done!!!
 
 - [x] This is a complete item
 - [ ] This is an incomplete item
