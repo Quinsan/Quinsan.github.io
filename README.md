@@ -4,7 +4,7 @@ Testing out Markdown syntax, nothing to see here.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It's pretty neat. This page uses Jekyll theme, and this is easy to change.
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It's pretty neat. This page uses a Jekyll theme, and that is easy to change. Example of displaying a quote:
 
 > I have no idea what I'm doing.
 > - Computer dog (or in this case me)
